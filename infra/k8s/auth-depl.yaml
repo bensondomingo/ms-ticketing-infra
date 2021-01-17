@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: auth
-          image: bdomingo/ticketing-auth
+          image: us.gcr.io/ticketing-dev-301116/auth
 
 ---
 apiVersion: v1
